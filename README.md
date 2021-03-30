@@ -5,5 +5,5 @@
 https://img.shields.io/discord/url/https://discord.gg/VYdrChWGRc/hyde.svg?style=social
 
 
-[![Discord](https://img.shields.io/discord/url?https://discord.gg/VYdrChWGRc?style=social)](https://discord.gg/VYdrChWGRc) 
+[![Discord](https://img.shields.io/discord/url?https://discord.gg/VYdrChWGRc?style=social)]
  https://img.shields.io/discord/url/https://discord.gg/VYdrChWGRc?style=social
