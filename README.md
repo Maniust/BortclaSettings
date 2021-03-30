@@ -3,3 +3,6 @@
 
 [![Discord](https://img.shields.io/discord/url?label=Discord&logo=Discord&style=social&url=https://discord.gg/VYdrChWGRc/hyde.svg?)](https://discord.gg/VYdrChWGRc)
 https://img.shields.io/discord/url/https://discord.gg/VYdrChWGRc/hyde.svg?style=social
+
+
+https://img.shields.io/discord/url/https://discord.gg/VYdrChWGRc?style=social
