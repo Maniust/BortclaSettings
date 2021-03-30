@@ -1,1 +1,1 @@
-[![Discord](https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=social&url=https%3A%2F%2Fdiscord.gg%2FVYdrChWGRc)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FManiust%2FBortcla%2Factions%2Fnew)
+[![Discord](https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=social&url=https%3A%2F%2Fdiscord.gg%VYdrChWGRc)](https://discord.gg/VYdrChWGRc?text=Wow:&url=https%3A%2F%2Fgithub.com%2FManiust%2FBortcla%2Factions%2Fnew)
